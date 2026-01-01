@@ -50,7 +50,7 @@ The analysis includes:
 - Daily revenue trend  
 
 Charts were created using matplotlib.
-
+https://github.com/abdolreza-tech/store-sales-analysis/blob/f7b938182d98b0608e991b5bc3fbc8e41ad659e3/Figure_1.png
 ---
 
 ## Exported Results
@@ -80,4 +80,5 @@ This project demonstrates practical data analysis skills suitable for:
 - Junior Data Analyst roles  
 - Business Intelligence roles  
 - SQL/Python analyst positions  
+
 
