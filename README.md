@@ -53,6 +53,7 @@ Charts were created using matplotlib.
 https://github.com/abdolreza-tech/store-sales-analysis/blob/f7b938182d98b0608e991b5bc3fbc8e41ad659e3/Figure_1.png
 https://github.com/abdolreza-tech/store-sales-analysis/blob/7277a417de44d1cdb29bba874e2a0a5e756ab808/Figure_2.png
 https://github.com/abdolreza-tech/store-sales-analysis/blob/666977cb5eb1acbf16aae18191f7c020aefe5b65/Figure_3.png
+https://github.com/abdolreza-tech/store-sales-analysis/blob/a5cffec5aa5bfd03ea6006bc948bf48bc70c2dcf/Figure_4.png
 ---
 
 ## Exported Results
@@ -82,6 +83,7 @@ This project demonstrates practical data analysis skills suitable for:
 - Junior Data Analyst roles  
 - Business Intelligence roles  
 - SQL/Python analyst positions  
+
 
 
 
