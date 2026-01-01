@@ -70,10 +70,24 @@ https://github.com/abdolreza-tech/store-sales-analysis/blob/a5cffec5aa5bfd03ea60
 ---
 
 ## Business Insights
-- Top‑selling products  
-- Most profitable categories  
-- Sales trends across January  
-- Recommendations for inventory  
+## Business Insights
+
+### 1. Top-Selling Products
+- PEN generated the highest total revenue due to multiple sales entries.
+- NOTEBOOK and COFFE also performed strongly.
+
+### 2. Most Profitable Categories
+- FOOD products generated the highest total revenue.
+- STATIONARY products had more transactions but lower average price.
+
+### 3. Sales Trends
+- Sales peaked around mid-January.
+- The highest revenue day was 2024-01-12.
+
+### 4. Recommendations
+- Increase stock of PEN, NOTEBOOK, and COFFE.
+- Consider promotions for lower-performing stationary items.
+- Analyze customer behavior on peak days to optimize staffing. 
 
 ---
 
@@ -83,6 +97,7 @@ This project demonstrates practical data analysis skills suitable for:
 - Junior Data Analyst roles  
 - Business Intelligence roles  
 - SQL/Python analyst positions  
+
 
 
 
